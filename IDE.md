@@ -79,7 +79,8 @@
 [YouTube](https://www.youtube.com/)
 
 #### Изображения
-[](images/img.png)
+![Nenavidia](images/img_1.png)
+![Colgate](images/img.png)
 
 
 ### Код
