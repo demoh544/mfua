@@ -79,6 +79,6 @@
 [YouTube](https://www.youtube.com/)
 
 #### Изображения
-[Картинка](img.png)
+[Картинка](images/img.png)
 
 
