@@ -79,6 +79,31 @@
 [YouTube](https://www.youtube.com/)
 
 #### Изображения
-[Картинка](images/img.png)
+[](images/img.png)
 
+
+### Код
+
+```python
+print("hello")
+```
+```cpp
+int main(){
+  pust("hello");
+}
+```
+```mermaid
+pie
+  title BROWSER
+  "chromium": 40
+  "opera": 15
+  "firefox": 10
+```
+
+Таблицы
+| headline1 | headline2 | healdine3|
+|-----------|-----------|----------|
+| textbox1  |textbox2   |textbox3  |
+| textbox4  |textbox5   |textbox6  |
+|           |           |          |
 
