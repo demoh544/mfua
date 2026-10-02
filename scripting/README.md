@@ -24,4 +24,4 @@ bash git_analizer.sh ~/путь_до_репозитория
 ```
 Вывод скрипта
 
-![](/images/img_2.png)
+![Вывод](/images/img_2.png)
