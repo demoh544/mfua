@@ -9,3 +9,6 @@
 
 ## Мои проэкты
 - [Локальный сервер minecraft](projects/local_minecraft_server.md)
+
+## Мои полезные скрипты
+- [git analizer](scripting/README.md##Git_analizer)

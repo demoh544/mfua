@@ -1,3 +1,4 @@
+## Git_analizer
 ### Установка скрипта [git_analizer](/scripting/git_analizer.sh) 
 
 Для установки потребуется утилита `curl`
@@ -15,7 +16,7 @@ chmod +x git_analazer.sh
 - Open Issues
 - Автор 
 - Активность
-## Пример 
+### Пример 
 
 Запуск скрипта
 ```bash
