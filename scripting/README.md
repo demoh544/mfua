@@ -21,4 +21,5 @@ curl -O https://raw.githubusercontent.com/demoh544/mfua/refs/heads/main/scriptin
 bash git_analizer.sh ~/путь_до_репозитория
 ```
 Вывод скрипта
+
 ![](/images/img_2.png)
