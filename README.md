@@ -1,8 +1,11 @@
 ## Обо мне
-- [Обо мне](about_me.md)
+Меня зовут Дмитрий я студент второго курса колледжа мфюа.
+Этот репозиторий создан для предмета операционные системы и среды и в нем я буду оставлять заметки по этому предмету
 
-## linux и IDE
-- [mermaid](mermaid.md)
-- [IDE](IDE.md)
-- [bash](bash.md)
+## Мои заметки 
+- [mermaid](base/mermaid.md)
+- [IDE](base/IDE.md)
+- [bash](base/bash.md)
 
+## Мои проэкты
+- [Локальный сервер minecraft](projects/local_minecraft_server.md)
