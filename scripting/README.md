@@ -1,15 +1,15 @@
-## Git_analizer
-### Установка скрипта [git_analizer](/scripting/git_analizer.sh) 
+## Git_analyzer
+### Установка скрипта [git_analyzer](/scripting/git_analyzer.sh) 
 
 Для установки потребуется утилита `curl`
 
 И для использования скрипта нужно наделить его правами с помощью `chmod`
 ```shell
-curl -O https://raw.githubusercontent.com/demoh544/mfua/refs/heads/main/scripting/git_analizer.sh
-chmod +x git_analazer.sh
+curl -O https://raw.githubusercontent.com/demoh544/mfua/refs/heads/main/scripting/git_analyzer.sh
+chmod +x git_analyzer.sh
 ```
 ### Возможности
-Скрипт [git_analizer](/scripting/git_analizer.sh) способен анализировать гит репозиторий и выводить его параметры такие как
+Скрипт [git_analyzer](/scripting/git_analyzer.sh) способен анализировать гит репозиторий и выводить его параметры такие как
 - Название репозитория
 - Звезды
 - Форки
@@ -20,7 +20,7 @@ chmod +x git_analazer.sh
 
 Запуск скрипта
 ```bash
-bash git_analizer.sh ~/путь_до_репозитория
+bash git_analyzer.sh ~/путь_до_репозитория
 ```
 Вывод скрипта
 

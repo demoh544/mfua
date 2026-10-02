@@ -7,8 +7,8 @@
 - [IDE](base/IDE.md)
 - [bash](base/bash.md)
 
-## Мои проэкты
+## Мои проекты
 - [Локальный сервер minecraft](projects/local_minecraft_server.md)
 
 ## Мои полезные скрипты
-- [git analizer](scripting/README.md##Git_analizer)
+- [git analyzer](scripting/README.md##Git_analyzer)
