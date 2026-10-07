@@ -10,5 +10,6 @@
 ## Мои проекты
 - [Локальный сервер minecraft](projects/local_minecraft_server.md)
 
-## Мои полезные скрипты
+## Мои скрипты
 - [git analyzer](scripting/README.md##Git_analyzer)
+- [Простые скрипты](scripting/README.md##Простые скрипты)
