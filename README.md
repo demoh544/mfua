@@ -11,5 +11,5 @@
 - [Локальный сервер minecraft](projects/local_minecraft_server.md)
 
 ## Мои скрипты
-- [git analyzer](scripting/README.md#Git_analyzer)
+- [Git analyzer](scripting/README.md#Git_analyzer)
 - [Простые скрипты](scripting/README.md#Простые_скрипты)
