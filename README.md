@@ -5,6 +5,7 @@
 ## Мои заметки 
 - [mermaid](base/mermaid.md)
 - [IDE](base/IDE.md)
+- [GIT](base/GIT) 
 - [bash](base/bash.md)
 
 ## Мои проекты
