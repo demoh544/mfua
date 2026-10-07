@@ -12,4 +12,4 @@
 
 ## Мои скрипты
 - [git analyzer](scripting/README.md##Git_analyzer)
-- [Простые скрипты](scripting/README.md##Простые скрипты)
+- [Простые скрипты](scripting/README.md##Простые_скрипты)
