@@ -14,3 +14,5 @@
 ## Мои скрипты
 - [Git analyzer](scripting/README.md#Git_analyzer)
 - [Простые скрипты](scripting/README.md#Простые_скрипты)
+
+ай
