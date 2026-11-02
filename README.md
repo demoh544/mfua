@@ -17,6 +17,7 @@
 ## Мои проекты
 - [Локальный сервер minecraft](projects/local_minecraft_server.md)
 - [Сайт мибомбо](https://github.com/demoh544/group_project_mibimbo)
+- [Сайт по разблокировке загрузчика JSN-L21 C10](https://github.com/demoh544/hecto_site)
 
 ## Мои скрипты
 - [Git analyzer](scripting/README.md#Git_analyzer)
