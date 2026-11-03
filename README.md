@@ -9,8 +9,9 @@
 ## Мои заметки 
 - [mermaid](base/mermaid.md)
 - [IDE](base/IDE.md)
-- [GIT](base/GIT.md) 
+- [GIT](base/GIT.md)
 - [bash](base/bash.md)
+- [docker](base/docker)
 
 ---
 
