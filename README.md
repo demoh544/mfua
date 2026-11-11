@@ -7,11 +7,12 @@
 
 ---
 ## Мои заметки 
-- [mermaid](base/mermaid.md)
-- [IDE](base/IDE.md)
-- [GIT](base/GIT.md)
-- [bash](base/bash.md)
-- [docker](docker/docker.md)
+- [mermaid](/base/mermaid.md)
+- [IDE](/base/IDE.md)
+- [GIT](/base/GIT.md)
+- [bash](/base/bash.md)
+- [docker](/base/docker/docker.md)
+	- [nginx](/base/docker/nginx.md)
 
 ---
 
@@ -21,5 +22,5 @@
 - [Сайт по разблокировке загрузчика JSN-L21 C10](https://github.com/demoh544/hecto_site)
 
 ## Мои скрипты
-- [Git analyzer](scripting/README.md#Git_analyzer)
-- [Простые скрипты](scripting/README.md#Простые_скрипты)
+- [Git analyzer](/scripting/README.md#Git_analyzer)
+- [Простые скрипты](/scripting/README.md#Простые_скрипты)
