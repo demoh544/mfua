@@ -14,7 +14,7 @@ docker stop $(docker ps -q)
 ```
 ![](/images/nginx/nginx2.png)
 
-#####Удаляем все контейнеры 
+##### Удаляем все контейнеры 
 ```
 docker container prune
 ```
