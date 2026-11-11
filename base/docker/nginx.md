@@ -6,7 +6,7 @@
 ```
 docker ps -a
 ```
-![[/images/nginx/nginx1.png]]
+![](/images/nginx/nginx1.png)
 
 Останавливаем все контейнеры
 ```
