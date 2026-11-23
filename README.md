@@ -15,6 +15,9 @@
 	- [nginx](/base/docker/nginx.md)
 	- [apache](/base/docker/apache.md)
 	- [adminer](/base/docker/adminer.md)
+	- [httpserver](/base/docker/httpserver.md)
+	- [jira](/base/docker/jira.md)
+	- [libredb-studio](/base/docker/libredb-studio.md)
 
 ---
 

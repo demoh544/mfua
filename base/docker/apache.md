@@ -15,13 +15,14 @@ docker container prune
 ![](/images/prune/prune2.png) 
 ![](/images/prune/prune3.png)
 
+### Создание контейнера
+
 Создаем структуру статичного сайта и делаем простой index.html
 ```
 mkdir my-site && cd my-site && touch index.html && echo '<h1>Hello Docker!</h1>' > index.html
 ```
 ![](/images/apache/apache1.png)
 
-### Создание контейнера
 В нутри дериктории запускаем установку и запуск apache
 ```
 docker run -d \
@@ -33,4 +34,5 @@ docker run -d \
 ![](/images/apache/apache2.png)
 
 Проверяем результат по http://localhost:8081/
+
 ![](/images/apache/apache3.png)
